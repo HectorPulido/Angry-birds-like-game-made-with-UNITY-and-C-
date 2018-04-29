@@ -3,7 +3,7 @@
 ![Banner](/Images/Banner.png)
 
 ## WHY (MOTIVATION)
-![Example](/Images/Example.png) <br/>
+![Example](/Images/ExampleImage.png) <br/>
 This tutorial was made for <b>Hector Pulido</b> for his youtube channel <br/>
 https://www.youtube.com/c/HectorAndresPulidoPalmar <br/>
 And his Twitch Channel<br/>
