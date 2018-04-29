@@ -1,18 +1,28 @@
-# Unity Angry birds clone
-This is a Angry birds made with Unity and C#
+# Angry birds
+##This is a Angry birds made with Unity and C#
 ![Banner](/Images/Banner.png)
+----------
+
 
 ## WHY (MOTIVATION)
-![Example](/Images/Example.png)
-This tutorial was made for Hector Pulido for his youtube channel 
-https://www.youtube.com/c/HectorAndresPulidoPalmar
-And his Twitch Channel
-https://www.twitch.tv/hector_pulido_
+![Example](/Images/Example.png)&nbsp;
+This tutorial was made for Hector Pulido for his youtube channel &nbsp;
+https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw &nbsp;
+And his Twitch Channel&nbsp;
+https://www.twitch.tv/hector_pulido_ &nbsp;
+
+
+----------
+
 
 ## HOW TO USE
-Open it on unity 2017.3 or greater (sorry about that >-< ), you can make your own envoriment and set the fitness function, but I recomend, to look at the examples.
+Open it on unity 2017.3 or greater (sorry about that >-< ), and play around with the project.
+
+
+----------
+
 
 ## Patreon
-Please consider Support on Patreon
-![Please consider support on patreon](/Images/Patreon.png)
+Please consider Support on Patreon&nbsp;
+![Please consider support on patreon](/Images/Patreon.png)&nbsp;
 https://www.patreon.com/HectorPulido
