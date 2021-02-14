@@ -1,6 +1,6 @@
 # Angry Birds clone
 <b>This is a Angry Birds made with Unity and C#</b>
-![Banner](/Images/Banner.png)
+[![Flappy bird bot](https://img.youtube.com/vi/jqvAKRUlJWY/0.jpg)](https://www.youtube.com/watch?v=jqvAKRUlJWY&list=PLHdk97dabfvz4UXjhXOwjiEBku1rPuhQy&index=7)
 
 ## WHY (MOTIVATION)
 ![Example](/Images/ExampleImage.png) <br/>
